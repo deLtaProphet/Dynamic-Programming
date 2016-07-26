@@ -42,7 +42,7 @@ return len[m][n];
 
 int main(){
  char x[]="abcdef";
- char y[]="xabcvdz";
+ char y[]="xabcvdzesdfmbsfmnbf";
  int m=strlen(x);
  int n=strlen(y);
 
